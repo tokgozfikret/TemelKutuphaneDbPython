@@ -3,6 +3,7 @@
 Bu proje, bir kütüphane veri tabanı yönetim sistemi için kapsamlı bir Python uygulamasıdır. Proje, kullanıcıların kitaplarla ilgili çeşitli işlemleri kolaylıkla gerçekleştirmelerine olanak tanır. İşte projede sunulan başlıca özellikler:
 
 Özellikler 🌟
+
 Kitap Göster: Mevcut kitapların tüm bilgilerini görüntüleyin.
 
 Kitap Sorgulama: Belirli bir kitabı hızlıca arayın ve bilgilerini alın.
@@ -14,6 +15,7 @@ Kitap Silme: Artık ihtiyaç duymadığınız kitapları veri tabanından çıka
 Kitap Baskı Yükseltme: Mevcut kitapların baskı bilgilerini güncelleyin.
 
 Kullanım 🛠
+
 Projeyi klonlayın veya indirin.
 
 Gerekli Python bağımlılıklarını yükleyin.
