@@ -1,4 +1,4 @@
-📚 Kütüphane Yönetim Sistemi 📚
+📚 Temel Kütüphane Yönetim Sistemi 📚
 
 Bu proje, bir kütüphane veri tabanı yönetim sistemi için kapsamlı bir Python uygulamasıdır. Proje, kullanıcıların kitaplarla ilgili çeşitli işlemleri kolaylıkla gerçekleştirmelerine olanak tanır. İşte projede sunulan başlıca özellikler:
 
