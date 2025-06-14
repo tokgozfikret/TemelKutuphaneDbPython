@@ -36,7 +36,7 @@ class Kütüphane():
         self.cursor.execute(sorgu,(isim,))
         kitaplar=self.cursor.fetchall()
         if (len(kitaplar)==0):
-            print("Böyle Bir Kitap Bulunmuyor")
+            print("Böyle Bir Kitap KütBulunmuyor")
         else:
             kitap=Kitap(kitaplar[0][0],kitaplar[0][1],kitaplar[0][2],kitaplar[0][3],kitaplar[0][4])
             print(kitap)

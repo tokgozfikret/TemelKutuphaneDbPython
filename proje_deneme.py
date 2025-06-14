@@ -22,7 +22,7 @@ print("""Kütüphane Programına Hoşgeldiniz
 
 kütüphane=Kütüphane()
 while True:
-    işlem=input("Yapacağınız İşlem: ")
+    işlem=input("Yapacağınız İşlem Nedir?: ")
     if (işlem == "Çık"):
         print("Program Kapanıyor")
         print("Yine Bekleriz")
